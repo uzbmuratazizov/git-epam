@@ -1,0 +1,23 @@
+[33mcommit c4e1f7054b15b749b12fbb947e2553c3596563ac[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Murat Azizov <4e.murod@gmail.com>
+Date:   Mon Jun 20 22:26:16 2022 +0500
+
+    add first 2 lines in the file3
+
+[33mcommit f24878e40f8b2b2935045ae0ad1fc7cd9c8f651d[m
+Author: Murat Azizov <4e.murod@gmail.com>
+Date:   Mon Jun 20 22:16:41 2022 +0500
+
+    adding new file
+
+[33mcommit 7dabb9fefc86ed3db434af1e54f191b5c96ef486[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Murat Azizov <4e.murod@gmail.com>
+Date:   Mon Jun 20 22:06:12 2022 +0500
+
+    Create testfile.txt.txt
+
+[33mcommit c56f84f8c1860ed5ca75dcf0d9adeb4eecd14822[m
+Author: uzbmuratazizov <82669801+uzbmuratazizov@users.noreply.github.com>
+Date:   Mon Jun 20 21:51:58 2022 +0500
+
+    Initial commit
