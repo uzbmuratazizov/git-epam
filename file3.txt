@@ -1,2 +1,4 @@
 This is new text
 The previos text has been removed
+
+This line is included by Git Online UI
