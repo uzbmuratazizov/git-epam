@@ -1,0 +1,42 @@
+[33mcommit 2bc84b0f929f7d3a295b6f9369b9d2122ac00758[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Murat Azizov <4e.murod@gmail.com>
+Date:   Mon Jun 20 22:35:48 2022 +0500
+
+    Previous text been deleted. Created a new line of text
+
+[33mcommit 566b6002c89d977af512e9ec2305cab7556ac6a2[m
+Merge: c4e1f70 5bdd8cf
+Author: Murat Azizov <4e.murod@gmail.com>
+Date:   Mon Jun 20 22:29:29 2022 +0500
+
+    Merge branch 'main' of github.com:uzbmuratazizov/git-epam
+
+[33mcommit c4e1f7054b15b749b12fbb947e2553c3596563ac[m
+Author: Murat Azizov <4e.murod@gmail.com>
+Date:   Mon Jun 20 22:26:16 2022 +0500
+
+    add first 2 lines in the file3
+
+[33mcommit f24878e40f8b2b2935045ae0ad1fc7cd9c8f651d[m
+Author: Murat Azizov <4e.murod@gmail.com>
+Date:   Mon Jun 20 22:16:41 2022 +0500
+
+    adding new file
+
+[33mcommit 5bdd8cff2dfbe338fed63e7c823dc7d794eeab15[m
+Author: uzbmuratazizov <82669801+uzbmuratazizov@users.noreply.github.com>
+Date:   Mon Jun 20 22:10:13 2022 +0500
+
+    Update testfile.txt.txt
+
+[33mcommit 7dabb9fefc86ed3db434af1e54f191b5c96ef486[m
+Author: Murat Azizov <4e.murod@gmail.com>
+Date:   Mon Jun 20 22:06:12 2022 +0500
+
+    Create testfile.txt.txt
+
+[33mcommit c56f84f8c1860ed5ca75dcf0d9adeb4eecd14822[m
+Author: uzbmuratazizov <82669801+uzbmuratazizov@users.noreply.github.com>
+Date:   Mon Jun 20 21:51:58 2022 +0500
+
+    Initial commit
